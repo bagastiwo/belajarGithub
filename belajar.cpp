@@ -3,6 +3,6 @@
 
 // abdullah nama ayahnya.
 int main(){
-    printf("Testing ngeue");
+    printf("Testing nge");
 }
 
